@@ -1,0 +1,23 @@
+-- Sample data fro physicians table
+INSERT INTO PHYSICIANS (empid, speciality, initial_board_certification_date) VALUES
+(1, 'Cardiology', '2010-05-15'),
+(4, 'Pediatrics', '2008-09-22'),
+(7, 'Dermatology', '2012-03-10'),
+(10, 'Orthopedics', '2009-11-18'),
+(13, 'Oncology', '2011-07-05'),
+(17, 'Neurology', '2013-01-30'),
+(21, 'Gastroenterology', '2007-12-12'),
+(22, 'Endocrinology', '2014-08-25'),
+(23, 'Urology', '2016-02-20'),
+(24, 'Nephrology', '2015-06-28'),
+(25, 'Rheumatology', '2006-10-14'),
+(26, 'Pulmonology', '2010-04-03'),
+(27, 'Hematology', '2008-11-11'),
+(28, 'Ophthalmology', '2012-09-08'),
+(29, 'Otolaryngology', '2013-05-17'),
+(30, 'Psychiatry', '2009-07-22'),
+(32, 'Infectious Disease', '2011-03-01'),
+(35, 'Allergy and Immunology', '2014-01-12'),
+(36, 'Geriatrics', '2017-07-29'),
+(39, 'Physical Medicine and Rehabilitation', '2016-11-05'),
+(40, 'Plastic Surgery', '2005-08-19');
